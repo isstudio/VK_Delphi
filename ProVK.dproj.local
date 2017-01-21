@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.dfm,F:\VK\VK.dfm=C:\Users\SysAdmin\Documents\Borland Studio Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.bdsproj,F:\VK\ProVK.bdsproj=C:\Users\SysAdmin\Documents\Borland Studio Projects\Project1.bdsproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.pas,F:\VK\VK.pas=C:\Users\SysAdmin\Documents\Borland Studio Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.pas,F:\VK\VK2.pas=F:\VK\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.dfm,F:\VK\VK2.dfm=F:\VK\Unit2.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
